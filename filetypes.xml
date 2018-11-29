@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="发布注意事项" type="PLAIN_TEXT" />
       <mapping pattern="发布历史" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
